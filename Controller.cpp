@@ -1,6 +1,3 @@
-//@author:Riccardo Patrizio
-
-
 #include "Controller.h"
 #include "Controller3.cpp"
 #include "Controller2.cpp"

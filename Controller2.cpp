@@ -1,6 +1,5 @@
 #include<iostream>
 #include "Controller.h"
-
 using namespace std;
 
 void Controller::selectionSort(vector<Treno*>& treni)

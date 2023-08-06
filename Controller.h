@@ -1,6 +1,3 @@
-//#ifndef Controller_h
-//#define Controller_h
-
 #ifndef Controller_h
 #define Controller_h
 

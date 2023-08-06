@@ -7,6 +7,7 @@ Il sistema comprende:
 - Stazioni
 - Treni
 - Orario treni
+
 Il progetto è stato svolto con la collaborazione di
 - Riccardo Patrizio
 - Gianluca Rossi

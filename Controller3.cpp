@@ -1,4 +1,3 @@
-// @author:Gianluca Rossi
 #include<iostream>
 #include "Controller.h"
 

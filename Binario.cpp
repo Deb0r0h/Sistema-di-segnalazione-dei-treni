@@ -1,5 +1,3 @@
-
-
 #include "Binario.h"
 
 Binario::Binario(bool s): status{s} {}

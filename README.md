@@ -1,7 +1,7 @@
 # Sistema di segnalazione dei treni
 Si tratta di un sistema di segnalazione ferroviaria. Questo sistema serve per 
 descrivere lo stato dei treni e delle stazioni su una linea ferroviaria, e per gestire la circolazione dei 
-treni in arrivo e in partenza dalle varie stazioni.
+treni in arrivo e in partenza dalle varie stazioni. Leggere il file pdf per maggiori dettagli.
 Il sistema comprende:
 - Linea ferroviaria
 - Stazioni

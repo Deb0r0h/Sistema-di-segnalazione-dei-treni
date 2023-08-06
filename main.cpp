@@ -5,9 +5,8 @@ using namespace std;
 
 int main()
 {
-	cout << "main\n";
 	Controller c;
-	//c.stampa_tutto();
 	c.simulation();
+	return 0;
 }
 

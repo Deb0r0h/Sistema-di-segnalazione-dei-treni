@@ -1,10 +1,6 @@
-
-
 //#pragma once
 #ifndef Binario_h
 #define Binario_h
-
-//Riccardo Patrizio
 
 class Binario 
 {   
